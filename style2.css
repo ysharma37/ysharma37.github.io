@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.first{
+    width: 900px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    align-content: center;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.text{
+    float: left;
+}
+
+.image{
+    display: flex;
+    float: right;
+}
+
+.second{
+    width: 900px;
+    height: 350px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.language{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}

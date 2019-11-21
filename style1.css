@@ -1,0 +1,106 @@
+.main-container{
+    background-color: black;
+}
+
+.first{
+    width: 900px;
+    height: 290px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    margin: auto;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    float: left;
+    height: 170px; 
+    width: 120px;
+}
+
+.text{
+    float: right;
+    color: white;
+    margin-top: 35px;
+    font-size: 4mm;
+}
+
+.second{
+    width: 900px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    align-content: center;
+}
+
+.firstEdu{
+    float: right;
+    margin-top: 100px;
+    margin-right: 87px;
+}
+
+.yearRight{
+    color: grey;
+    opacity: 50%;
+    display: flex;
+    float: left;
+    font-size: 9mm;
+}
+
+.eduRight{
+    display: flex;
+    float: right;
+    margin-left: 30px;
+}
+
+.secondEdu{
+    float: left;
+    margin-top: 50px;
+    margin-left: 87px;
+}
+
+.yearLeft{
+    color: grey;
+    opacity: 50%;
+    display: flex;
+    float: right;
+    font-size: 9mm;
+    margin-left: 30px;
+}
+
+.eduLeft{
+    display: flex;
+    float: left;
+}
+
+.thirdEdu{
+    float: right;
+    margin-top: 50px;
+    margin-right: 194px;
+}
+
+.course{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.year{
+    color: grey;
+    margin-left: 100px;
+}
+
+.hobbies{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}

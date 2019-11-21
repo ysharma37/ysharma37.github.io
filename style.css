@@ -1,0 +1,51 @@
+a:link{
+    text-decoration:none;
+}
+
+.main-container{
+    background-image: url('image1.png');
+    background-color: black;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main-edges{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: grey;
+}
+.top{
+    margin-left: 660px;
+    width: 70px;
+    text-align: center;
+    cursor: hand;
+    color: grey;
+}
+
+.right{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    float: right;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    cursor: hand;
+    color: grey;
+}
+
+.left{
+    writing-mode: vertical-rl; 
+    text-orientation: upright;
+    float: left;
+    letter-spacing: 1px;
+    margin-top: 170px;
+    cursor: hand;
+    color: grey;
+}
+
+.name{
+    margin-left: 800px;
+    margin-top: 170px;
+    margin-right: 229px;
+    font-size: 15mm;
+}
